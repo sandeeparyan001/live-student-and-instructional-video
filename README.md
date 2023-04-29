@@ -16,3 +16,7 @@ By default status is **Neutral**. this is work on the emotional recognition api.
 
 ### Simple form 
 go to the form and fill the details and submit. after submit it save the all the data to MongoDB database. if you get the error **Cannot POST to form** then add the full name of file .ie **/form.html** at line no 32 in **index.js**
+
+### How to run
+
+go to the terminal and type the **nodemon index.js** to run the code. In the browser open the localhost:3000
